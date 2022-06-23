@@ -1,3 +1,3 @@
 # HSP
 
-https://dashboard.heroku.com/new?template=仓库地址
+[Deploy](https://dashboard.heroku.com/new?template=https://github.com/donfo22/mskhsp)
